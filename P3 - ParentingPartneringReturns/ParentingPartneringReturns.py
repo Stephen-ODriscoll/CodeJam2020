@@ -2,7 +2,6 @@
 if __name__ == "__main__":
     num_tests = int(input())
     for test in range(num_tests):
-
         activities = []
         num_activities = int(input())
         for i in range(num_activities):
